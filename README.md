@@ -2,3 +2,6 @@
 
 Just an experimentation with message queues used as the data communication medium and file I/O handling in a distributed clustered network file system.
 
+## Index
+* [docs](./docs/README.md)
+* [poc](./poc/README.md)
